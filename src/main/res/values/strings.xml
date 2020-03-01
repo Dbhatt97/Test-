@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="enter_your_mobile_number_we_will_send_you_the_otp_to_verify_later">Enter your mobile number we will send you the OTP to verify later</string>
+    <string name="submit">Submit</string>
+    <string name="num">+91</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="submit2">Submit</string>
+    <string name="did_not_recieved_the_code">Did not recieved the code?</string>
+    <string name="re_send">Re-Send</string>
+    <string name="ver">{"\"result\":false}</string>
+</resources>
